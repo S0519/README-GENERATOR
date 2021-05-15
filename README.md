@@ -5,7 +5,7 @@ the readme file and the function to read the readme file. This application allow
 Sources
 
 
-### Sources:
+### Sources :
 * https://www.npmjs.com/
 * https://developer.mozilla.org
 
