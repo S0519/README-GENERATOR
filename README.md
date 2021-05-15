@@ -21,7 +21,7 @@ The index.js  is divided into many sections: In the first part there is the func
 
 
 
-###### Inquire and Array
+###### Function inquire and Array
 
 ![functions and array](https://user-images.githubusercontent.com/80322588/118378156-58d56000-b597-11eb-860c-0fcb94ad40be.png)
 
