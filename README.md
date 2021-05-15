@@ -6,8 +6,8 @@ Sources
 
 
 ### Sources:
-https://www.npmjs.com/
-https://developer.mozilla.org
+* https://www.npmjs.com/
+* https://developer.mozilla.org
 
 
 ### URL :
