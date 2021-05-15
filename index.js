@@ -83,7 +83,7 @@ function init () {
     })
 }
 
-// Function call to initialize app axios is like the fetch request
+// Function call to initialize
 init();
 
 
